@@ -1,5 +1,5 @@
 ---
-title: Markdown & Media
+title: Chapter 1 - Introduction to open science
 ---
 
 ## Formatting Text with Markdown
